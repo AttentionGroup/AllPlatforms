@@ -1,0 +1,28 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_35CBB9D2_2D94_3AE0_41C3_FC82CE219F24.source = https://events.decentraland.org/event/?id=aa390626-43eb-49ab-a34a-f2fd8f7c1b1d
+LinkBehaviour_34044F4D_2CB4_57E0_41C3_BD6C54F7AA00.source = https://events.decentraland.org/event/?id=aa390626-43eb-49ab-a34a-f2fd8f7c1b1d
+LinkBehaviour_3B8B68F7_2CB4_3AA0_4194_88D84AB0E6FA.source = https://www.roblox.com/games/4110892437/Kaiju-Universe
+LinkBehaviour_3B569055_2C8C_69E0_41C6_28BA78C94729.source = https://www.sandbox.game/en/events/boys-planet/
+LinkBehaviour_3B6CBC25_2C8C_39A0_41B6_15097B1BF2D5.source = https://www.spatial.io/s/NFT-Magenta-Room-6329850e8e5e660001876971?share=8731524808929195041
+
+## Media
+
+### Title
+panorama_39DA8955_2CBC_7BE0_41AA_23A18E2A138B.label = HubCam01_Interoperability
+panorama_3A565626_2D9C_69A0_41B1_0A3805BF65DD.label = HubCam04_Interoperability
+
+## Skin
+
+### Image
+Image_3A0437F4_2C94_36A0_41C0_004C19B36722.url = skin/Image_3A0437F4_2C94_36A0_41C0_004C19B36722_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Interoperability
