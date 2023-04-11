@@ -3,30 +3,41 @@
 ## Action
 
 ### URL
-LinkBehaviour_35CBB9D2_2D94_3AE0_41C3_FC82CE219F24.source = https://events.decentraland.org/event/?id=aa390626-43eb-49ab-a34a-f2fd8f7c1b1d
-LinkBehaviour_34044F4D_2CB4_57E0_41C3_BD6C54F7AA00.source = https://events.decentraland.org/event/?id=aa390626-43eb-49ab-a34a-f2fd8f7c1b1d
-LinkBehaviour_3B8B68F7_2CB4_3AA0_4194_88D84AB0E6FA.source = https://www.roblox.com/games/4110892437/Kaiju-Universe
-LinkBehaviour_3B569055_2C8C_69E0_41C6_28BA78C94729.source = https://www.sandbox.game/en/events/boys-planet/
-LinkBehaviour_3B6CBC25_2C8C_39A0_41B6_15097B1BF2D5.source = https://www.spatial.io/s/NFT-Magenta-Room-6329850e8e5e660001876971?share=8731524808929195041
+PopupWebFrameBehaviour_720922B0_6DA0_B04D_41AE_8DB1A53BD72B.url = https://sketchfab.com/models/0af414c1a80c4d4983064be512a674cf/embed
+
+## Hotspot
+
+### Tooltip
+sprite_4E456D95_6DE0_D077_41D8_5A388D1CA3F8.toolTip = Return
 
 ## Media
 
-### Title
-panorama_39DA8955_2CBC_7BE0_41AA_23A18E2A138B.label = HubCam01_Interoperability
-panorama_3A565626_2D9C_69A0_41B1_0A3805BF65DD.label = HubCam04_Interoperability
-
-## Skin
-
-### Button
-Button_235145D6_2D9B_6958_41C0_4A42A37EC8A8.label = instructions
-
 ### Image
-Image_216449E6_2D8E_B978_41C3_A05917CBB831.url = skin/Image_216449E6_2D8E_B978_41C3_A05917CBB831_en.png
-Image_3A0437F4_2C94_36A0_41C0_004C19B36722.url = skin/Image_3A0437F4_2C94_36A0_41C0_004C19B36722_en.png
+imlevel_61E4A411_6F7C_8941_41D2_572851C81790.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_0.png
+imlevel_61E55411_6F7C_8941_41C2_706A4C6B2899.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_1.png
+imlevel_61E54411_6F7C_8941_41B9_BDE3DCF0CEE3.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_2.png
+imlevel_61D56316_6F7C_8F43_41CB_9FFB1EEA7D9C.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_0.png
+imlevel_61D69316_6F7C_8F43_41D3_516A49B64AF1.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_1.png
+imlevel_61D76316_6F7C_8F43_41BF_8E660E9D7836.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_2.png
+imlevel_61D77316_6F7C_8F40_41D6_DD8C5B6B2636.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_3.png
+
+### Popup Image
+
+### Title
+panorama_707A675B_6DA7_50F3_41B9_E273978B1F57.label = BTTF_test4
+video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0.label = Back To The Future (1985) Theatrical Trailer
+model_706D14D8_6DA3_51FD_41D7_F6B07C97076A.label = hoverboard
+model_61B8BCB3_6A61_51B3_41BA_81344A5D1CD2.label = lego_delorean_time_machine
+
+### Video
+videolevel_7BB9FB2F_6F8D_BF41_41D5_2B5B4E65EBEE.url = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_en.mp4
+videolevel_7BB9FB2F_6F8D_BF41_41D5_2B5B4E65EBEE.posterURL = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_poster_en.jpg
+
+### Video Subtitles
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Interoperability
+tour.name = Who Loves BTTF
