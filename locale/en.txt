@@ -7,12 +7,23 @@ PopupWebFrameBehaviour_720922B0_6DA0_B04D_41AE_8DB1A53BD72B.url = https://sketch
 
 ## Hotspot
 
+### Text
+HotspotPanoramaOverlayTextImage_7A62F8F4_7582_678C_41D6_06D96D35A565.text = [brief snapshot of trending searches]
+HotspotPanoramaOverlayTextImage_65A2188B_758E_2784_41D4_4448F1C3FFBE.text = google \
+trends \
+visualiser
+
 ### Tooltip
 sprite_4E456D95_6DE0_D077_41D8_5A388D1CA3F8.toolTip = Return
+
+### URL
+overlay_7AD2D244_7582_6A8C_41D5_31ADDC7E046C.url = https://trends.google.com/trends/hottrends/visualize?nrow=5&ncol=5
 
 ## Media
 
 ### Image
+imlevel_648730BE_7586_67FC_41C7_19AE31A3144E.url = media/panorama_707A675B_6DA7_50F3_41B9_E273978B1F57_HS_cjzrhf6l_en.png
+imlevel_64CBA0F8_7586_6784_41DB_5BE98FF27537.url = media/panorama_707A675B_6DA7_50F3_41B9_E273978B1F57_HS_jssn8aay_en.png
 imlevel_60DB3CF3_6FA6_AFB4_41C2_90B7E51A4B05.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_0.png
 imlevel_60DB6CF3_6FA6_AFB4_417D_26CA9DF6635F.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_1.png
 imlevel_60DB7CF4_6FA6_AFBC_41DB_24F0279FAF15.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_2.png
@@ -30,8 +41,8 @@ model_706D14D8_6DA3_51FD_41D7_F6B07C97076A.label = hoverboard
 model_61B8BCB3_6A61_51B3_41BA_81344A5D1CD2.label = lego_delorean_time_machine
 
 ### Video
-videolevel_7F8EADFE_6FB6_A737_41A4_5734A7CCEFC0.url = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_en.mp4
-videolevel_7F8EADFE_6FB6_A737_41A4_5734A7CCEFC0.posterURL = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_poster_en.jpg
+videolevel_64C2119B_7586_6985_41D4_294A80CCB8FE.url = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_en.mp4
+videolevel_64C2119B_7586_6985_41D4_294A80CCB8FE.posterURL = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_poster_en.jpg
 
 ### Video Subtitles
 
