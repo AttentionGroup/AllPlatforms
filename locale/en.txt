@@ -2,47 +2,38 @@
 
 ## Action
 
-### URL
-PopupWebFrameBehaviour_720922B0_6DA0_B04D_41AE_8DB1A53BD72B.url = https://sketchfab.com/models/0af414c1a80c4d4983064be512a674cf/embed
-
-## Hotspot
-
-### Text
-HotspotPanoramaOverlayTextImage_7A62F8F4_7582_678C_41D6_06D96D35A565.text = [brief snapshot of trending searches]
-HotspotPanoramaOverlayTextImage_65A2188B_758E_2784_41D4_4448F1C3FFBE.text = google \
-trends \
-visualiser
-
-### Tooltip
-sprite_4E456D95_6DE0_D077_41D8_5A388D1CA3F8.toolTip = Return
+### PDF
+PopupPDFBehaviour_AB6FE6FD_BCE4_B217_41B7_9ACBF3CC6565.url = files/instr_soundwave_en.pdf
 
 ### URL
-overlay_7AD2D244_7582_6A8C_41D5_31ADDC7E046C.url = https://trends.google.com/trends/hottrends/visualize?nrow=5&ncol=5
+PopupWebFrameBehaviour_AE477026_BCFB_CE35_41C0_948BDA989286.url = https://demo.crowdclass.io/claim/ysWQKvPBQxzxDJw5
+PopupWebFrameBehaviour_A6C02AB0_BD65_D22D_41E5_80BFBFF9AA02.url = https://tfwiki.net/wiki/Soundwave_(G1)/toys
+PopupWebFrameBehaviour_A69F9AC0_BD3C_D26D_4191_654E85BA4480.url = https://www.bigbadtoystore.com/Product/VariationDetails/219152
+PopupWebFrameBehaviour_A686A1AE_BD7C_4E35_41D3_EF84BB1D2F43.url = https://www.sideshow.com/collectibles/transformers-megatron-pop-culture-shock-903817
 
 ## Media
 
 ### Image
-imlevel_648730BE_7586_67FC_41C7_19AE31A3144E.url = media/panorama_707A675B_6DA7_50F3_41B9_E273978B1F57_HS_cjzrhf6l_en.png
-imlevel_64CBA0F8_7586_6784_41DB_5BE98FF27537.url = media/panorama_707A675B_6DA7_50F3_41B9_E273978B1F57_HS_jssn8aay_en.png
-imlevel_60DB3CF3_6FA6_AFB4_41C2_90B7E51A4B05.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_0.png
-imlevel_60DB6CF3_6FA6_AFB4_417D_26CA9DF6635F.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_1.png
-imlevel_60DB7CF4_6FA6_AFBC_41DB_24F0279FAF15.url = media/popup_712CEB67_6DA1_B0D3_41D9_A40E826D0ACF_en_0_2.png
-imlevel_602ECC08_6FA6_AE54_41C3_32E2549CEECF.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_0.png
-imlevel_6028DC08_6FA6_AE54_41D9_C6C1C8DD893F.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_1.png
-imlevel_602F3C08_6FA6_AE54_41D5_EFF8307E479B.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_2.png
-imlevel_602F2C08_6FA6_AE54_41D8_9EBF1DEBEB13.url = media/popup_71973045_6DA7_B0D7_41D5_0B9F945ED5B0_en_0_3.png
+imlevel_A8BD5020_BD7B_1E86_41E2_8D79B1803EFF.url = media/popup_A12DF798_BD24_521D_41C3_AB8F3ECA0A65_en_0_0.png
+imlevel_A8BD4020_BD7B_1E86_41CD_6A19B0D4A7F3.url = media/popup_A12DF798_BD24_521D_41C3_AB8F3ECA0A65_en_0_1.png
+imlevel_A8BD3020_BD7B_1E86_41B4_10816680DBE6.url = media/popup_A12DF798_BD24_521D_41C3_AB8F3ECA0A65_en_0_2.png
+imlevel_A8A072FB_BD7B_037A_41D0_DC0B94D304FA.url = media/popup_A689AAAF_BD5C_5233_41A2_BA53DDA8F9AD_en_0_0.png
+imlevel_A8A062FB_BD7B_037A_41E0_61694C8FB538.url = media/popup_A689AAAF_BD5C_5233_41A2_BA53DDA8F9AD_en_0_1.png
 
 ### Popup Image
 
 ### Title
-panorama_707A675B_6DA7_50F3_41B9_E273978B1F57.label = BTTF_test4
-video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0.label = Back To The Future (1985) Theatrical Trailer
-model_706D14D8_6DA3_51FD_41D7_F6B07C97076A.label = hoverboard
-model_61B8BCB3_6A61_51B3_41BA_81344A5D1CD2.label = lego_delorean_time_machine
+video_A5F4F6F9_BD27_F21F_41E5_31EA5C7F00AA.label = Soundwave G1 voice compilation part I
+panorama_B3042E18_B8E4_97D5_41E1_8B3AF119AF44.label = TEST
+panorama_B093F244_BCDC_7275_41C3_3EFC38ECF61B.label = TEST1
+video_A6532654_BD25_D215_41D8_0BFAA878C1E1.label = Transformers siege Soundwave & Shockwave_silent
+model_AF3B3626_BCFD_D235_41D0_93ECDBC0EE3A.label = soundwave_tfd
 
 ### Video
-videolevel_64C2119B_7586_6985_41D4_294A80CCB8FE.url = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_en.mp4
-videolevel_64C2119B_7586_6985_41D4_294A80CCB8FE.posterURL = media/video_70EDE313_6A67_5073_41AE_90A4CFD0A7D0_poster_en.jpg
+videolevel_AB34A611_BD7B_0287_41D6_49C68C79335B.url = media/video_A5F4F6F9_BD27_F21F_41E5_31EA5C7F00AA_en.mp4
+videolevel_AB34A611_BD7B_0287_41D6_49C68C79335B.posterURL = media/video_A5F4F6F9_BD27_F21F_41E5_31EA5C7F00AA_poster_en.jpg
+videolevel_AB4C5566_BD7B_068A_41E4_5D68E6E6E93F.url = media/video_A6532654_BD25_D215_41D8_0BFAA878C1E1_en.mp4
+videolevel_AB4C5566_BD7B_068A_41E4_5D68E6E6E93F.posterURL = media/video_A6532654_BD25_D215_41D8_0BFAA878C1E1_poster_en.jpg
 
 ### Video Subtitles
 
@@ -51,4 +42,4 @@ videolevel_64C2119B_7586_6985_41D4_294A80CCB8FE.posterURL = media/video_70EDE313
 ### Description
 
 ### Title
-tour.name = Who Loves BTTF
+tour.name = Soundwave
