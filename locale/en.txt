@@ -4,15 +4,21 @@
 
 ### URL
 PopupWebFrameBehaviour_324B6E09_203A_F0F0_41BD_9A73D816ABA6.url = https://www.portoftyne.co.uk/about-us/interactive-map
+PopupWebFrameBehaviour_018FEDE3_2091_9828_418D_B94623AA2E1F.url = //www.youtube.com/embed/M41dms_PTsg?v=M41dms_PTsg
 
 ## Hotspot
 
 ### Text
 HotspotPanoramaOverlayTextImage_2F4F822F_203E_7130_41A4_8FBA249AF058.text = Open Interactive Map
+HotspotPanoramaOverlayTextImage_3B785B4B_2090_9879_41AE_0AEB115E0CED.text = PoT Partner Room
+HotspotPanoramaOverlayTextImage_3BBD3834_2091_982F_4196_9DCB8F4A60D5.text = on demand room
+HotspotPanoramaOverlayTextImage_37549F16_20B0_99EB_41AA_789848DFC164.text = on demand room
 HotspotPanoramaOverlayTextImage_32D2B5FD_2091_8819_41B5_5F26BC1251BA.text = return to partner hub
 HotspotPanoramaOverlayTextImage_2F41E96F_2090_7839_4196_CD13CD2B1244.text = return to partner hub
 HotspotPanoramaOverlayTextImage_32BA6D86_2090_F8EB_41A2_FD1D9B67694E.text = return to partner hub
 HotspotPanoramaOverlayTextImage_335D06E4_20B0_882F_41B3_9BEBF382B326.text = return to partner hub
+HotspotPanoramaOverlayTextImage_3634F699_20B7_8819_41C0_020887FAB094.text = return to partner hub
+HotspotPanoramaOverlayTextImage_365DBE0D_2090_9BF8_41BB_B9388F9EC31C.text = return to partner hub
 
 ## Media
 
@@ -22,6 +28,11 @@ imlevel_34788F26_20B3_F82B_41BB_922664ED465D.url = media/panorama_2A92F395_203A_
 imlevel_34FDFE80_20B3_F8E7_41B7_93D418F1DF36.url = media/panorama_2A932B5D_203A_5710_41B7_E733B996D24D_HS_2veqln60_en.png
 imlevel_34751EEB_20B3_F838_4183_8849398F1871.url = media/panorama_2A93713A_203A_B310_41BB_8DF2CC6D5C68_HS_gb7zw6ja_en.png
 imlevel_33D3068A_204A_F1F0_4174_4837EFF0BC1E.url = media/panorama_2C2D0DFA_203A_7311_4170_765A54C00B11_HS_vcngnzgr_en.png
+imlevel_3B6B8A15_2090_7BE9_41C0_3F766C56B366.url = media/panorama_3376BD06_20BF_99EB_41A1_7A1FA65000E1_HS_hkpoyre6_en.png
+imlevel_3A52185B_2093_9819_41B0_A2BE4C39B81D.url = media/panorama_33F4C2DF_20BF_8818_41B2_45F400CAFCB6_HS_7ka30w3x_en.png
+imlevel_3A504875_2093_9829_41BC_7FB5DA35A8F5.url = media/panorama_33F4C2DF_20BF_8818_41B2_45F400CAFCB6_HS_cq0u57bf_en.png
+imlevel_377965EE_2097_883B_41B0_14CFFA7944A9.url = media/panorama_34A1C659_2090_8819_41AF_6AEC1FC1EE5C_HS_g0niu51b_en.png
+imlevel_37DC5AA8_2090_7827_41BD_026C2FCE0C05.url = media/panorama_36DD53B0_20B0_8827_41BD_1A266133671E_HS_7s9xem4d_en.png
 
 ### Title
 panorama_2A97550D_203A_50F0_41B1_9C33C415A615.label = Cam 01
@@ -31,12 +42,15 @@ panorama_2A93713A_203A_B310_41BB_8DF2CC6D5C68.label = Cam 04
 panorama_2A92A78A_203A_BFF0_4186_A387FC9B1F90.label = Cam 05
 panorama_2A92BDBC_203A_B311_41BD_BAE247FBB7C4.label = Cam 06
 panorama_2A92F395_203A_D713_41B6_8DD74C1DF97B.label = Cam 07
+panorama_33F4C2DF_20BF_8818_41B2_45F400CAFCB6.label = HubCam01_0003
+panorama_3376BD06_20BF_99EB_41A1_7A1FA65000E1.label = HubCam04_0003
 video_2E543883_2091_B8E9_4194_9BA6ED2B32B4.label = Port of Tyne Brand video 2023_480p
 panorama_34A1C659_2090_8819_41AF_6AEC1FC1EE5C.label = Test On Demand 01_001
+panorama_36DD53B0_20B0_8827_41BD_1A266133671E.label = Test On Demand 02_001
 
 ### Video
-videolevel_35A5778D_20B3_88F9_41B5_069F9D60E166.url = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_en.mp4
-videolevel_35A5778D_20B3_88F9_41B5_069F9D60E166.posterURL = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_poster_en.jpg
+videolevel_3BDAE92C_2093_983F_41B8_1E58C9F8BB6D.url = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_en.mp4
+videolevel_3BDAE92C_2093_983F_41B8_1E58C9F8BB6D.posterURL = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_poster_en.jpg
 
 ### Video Subtitles
 
