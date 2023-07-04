@@ -23,10 +23,17 @@ panorama_2A93713A_203A_B310_41BB_8DF2CC6D5C68.label = Cam 04
 panorama_2A92A78A_203A_BFF0_4186_A387FC9B1F90.label = Cam 05
 panorama_2A92BDBC_203A_B311_41BD_BAE247FBB7C4.label = Cam 06
 panorama_2A92F395_203A_D713_41B6_8DD74C1DF97B.label = Cam 07
+video_2E543883_2091_B8E9_4194_9BA6ED2B32B4.label = Port of Tyne Brand video 2023_480p
+
+### Video
+videolevel_30E40DAD_2091_9838_41B0_506D8DA0ED2C.url = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_en.mp4
+videolevel_30E40DAD_2091_9838_41B0_506D8DA0ED2C.posterURL = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_poster_en.jpg
+
+### Video Subtitles
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 8
+tour.name = MIW23 - PoT Partner Room
