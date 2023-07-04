@@ -9,10 +9,18 @@ PopupWebFrameBehaviour_324B6E09_203A_F0F0_41BD_9A73D816ABA6.url = https://www.po
 
 ### Text
 HotspotPanoramaOverlayTextImage_2F4F822F_203E_7130_41A4_8FBA249AF058.text = Open Interactive Map
+HotspotPanoramaOverlayTextImage_32D2B5FD_2091_8819_41B5_5F26BC1251BA.text = return to partner hub
+HotspotPanoramaOverlayTextImage_2F41E96F_2090_7839_4196_CD13CD2B1244.text = return to partner hub
+HotspotPanoramaOverlayTextImage_32BA6D86_2090_F8EB_41A2_FD1D9B67694E.text = return to partner hub
+HotspotPanoramaOverlayTextImage_335D06E4_20B0_882F_41B3_9BEBF382B326.text = return to partner hub
 
 ## Media
 
 ### Image
+imlevel_347B2F04_20B3_F9E8_419F_BB4D5E6C22F9.url = media/panorama_2A92A78A_203A_BFF0_4186_A387FC9B1F90_HS_a5jddwpt_en.png
+imlevel_34788F26_20B3_F82B_41BB_922664ED465D.url = media/panorama_2A92F395_203A_D713_41B6_8DD74C1DF97B_HS_cct2c4st_en.png
+imlevel_34FDFE80_20B3_F8E7_41B7_93D418F1DF36.url = media/panorama_2A932B5D_203A_5710_41B7_E733B996D24D_HS_2veqln60_en.png
+imlevel_34751EEB_20B3_F838_4183_8849398F1871.url = media/panorama_2A93713A_203A_B310_41BB_8DF2CC6D5C68_HS_gb7zw6ja_en.png
 imlevel_33D3068A_204A_F1F0_4174_4837EFF0BC1E.url = media/panorama_2C2D0DFA_203A_7311_4170_765A54C00B11_HS_vcngnzgr_en.png
 
 ### Title
@@ -24,10 +32,11 @@ panorama_2A92A78A_203A_BFF0_4186_A387FC9B1F90.label = Cam 05
 panorama_2A92BDBC_203A_B311_41BD_BAE247FBB7C4.label = Cam 06
 panorama_2A92F395_203A_D713_41B6_8DD74C1DF97B.label = Cam 07
 video_2E543883_2091_B8E9_4194_9BA6ED2B32B4.label = Port of Tyne Brand video 2023_480p
+panorama_34A1C659_2090_8819_41AF_6AEC1FC1EE5C.label = Test On Demand 01_001
 
 ### Video
-videolevel_2F3C7550_209F_8867_41B6_A2C0DFC818E3.url = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_en.mp4
-videolevel_2F3C7550_209F_8867_41B6_A2C0DFC818E3.posterURL = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_poster_en.jpg
+videolevel_35A5778D_20B3_88F9_41B5_069F9D60E166.url = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_en.mp4
+videolevel_35A5778D_20B3_88F9_41B5_069F9D60E166.posterURL = media/video_2E543883_2091_B8E9_4194_9BA6ED2B32B4_poster_en.jpg
 
 ### Video Subtitles
 
