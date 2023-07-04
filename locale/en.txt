@@ -2,54 +2,31 @@
 
 ## Action
 
-### PDF
-PopupPDFBehaviour_AB6FE6FD_BCE4_B217_41B7_9ACBF3CC6565.url = files/instr_soundwave_en.pdf
-
 ### URL
-PopupWebFrameBehaviour_AE477026_BCFB_CE35_41C0_948BDA989286.url = https://demo.crowdclass.io/claim/ysWQKvPBQxzxDJw5
-PopupWebFrameBehaviour_A6C02AB0_BD65_D22D_41E5_80BFBFF9AA02.url = https://tfwiki.net/wiki/Soundwave_(G1)/toys
+PopupWebFrameBehaviour_324B6E09_203A_F0F0_41BD_9A73D816ABA6.url = https://www.portoftyne.co.uk/about-us/interactive-map
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_2F4F822F_203E_7130_41A4_8FBA249AF058.text = Open Interactive Map
 
 ## Media
 
-### Audio
-audiores_AEF40E99_BE7A_4DDA_41A1_19686FA3E566.mp3Url = media/audio_AE87985F_BE7A_5556_41C1_CDE718DC7381_en.mp3
-
 ### Image
-imlevel_A8BD5020_BD7B_1E86_41E2_8D79B1803EFF.url = media/popup_A12DF798_BD24_521D_41C3_AB8F3ECA0A65_en_0_0.png
-imlevel_A8BD4020_BD7B_1E86_41CD_6A19B0D4A7F3.url = media/popup_A12DF798_BD24_521D_41C3_AB8F3ECA0A65_en_0_1.png
-imlevel_A8BD3020_BD7B_1E86_41B4_10816680DBE6.url = media/popup_A12DF798_BD24_521D_41C3_AB8F3ECA0A65_en_0_2.png
-imlevel_A8A072FB_BD7B_037A_41D0_DC0B94D304FA.url = media/popup_A689AAAF_BD5C_5233_41A2_BA53DDA8F9AD_en_0_0.png
-imlevel_A8A062FB_BD7B_037A_41E0_61694C8FB538.url = media/popup_A689AAAF_BD5C_5233_41A2_BA53DDA8F9AD_en_0_1.png
-imlevel_AED0EB92_BE7A_4BA9_41B6_D1BCD5F056E5.url = media/popup_B115DDE5_BE1A_CF6A_41DC_2888375DC5C4_en_0_0.png
-imlevel_AEDEDB92_BE7A_4BA9_41C7_11268F523F2B.url = media/popup_B115DDE5_BE1A_CF6A_41DC_2888375DC5C4_en_0_1.png
-imlevel_AEDEEB92_BE7A_4BA9_41D1_52B31C7C620A.url = media/popup_B115DDE5_BE1A_CF6A_41DC_2888375DC5C4_en_0_2.png
-
-### Popup Image
+imlevel_33D3068A_204A_F1F0_4174_4837EFF0BC1E.url = media/panorama_2C2D0DFA_203A_7311_4170_765A54C00B11_HS_vcngnzgr_en.png
 
 ### Title
-video_A5F4F6F9_BD27_F21F_41E5_31EA5C7F00AA.label = Soundwave G1 voice compilation part I
-panorama_B3042E18_B8E4_97D5_41E1_8B3AF119AF44.label = TEST
-panorama_B093F244_BCDC_7275_41C3_3EFC38ECF61B.label = TEST1
-video_B050004B_BE19_D4BE_41E3_2EDD9BF05FAE.label = Top 10 Megatron Evil Laughs'
-video_A6532654_BD25_D215_41D8_0BFAA878C1E1.label = Transformers siege Soundwave & Shockwave_silent
-video_B1227296_BE1A_D5D6_4191_D4B8B10207F6.label = Transformers x J Balvin - J Balvintron Promo Video
-model_AF3B3626_BCFD_D235_41D0_93ECDBC0EE3A.label = soundwave_tfd
-
-### Video
-videolevel_AEF1AE80_BE7A_4DAA_41D6_28FC4BA39796.url = media/video_A5F4F6F9_BD27_F21F_41E5_31EA5C7F00AA_en.mp4
-videolevel_AEF1AE80_BE7A_4DAA_41D6_28FC4BA39796.posterURL = media/video_A5F4F6F9_BD27_F21F_41E5_31EA5C7F00AA_poster_en.jpg
-videolevel_AEE47CAA_BE7A_4DFE_41D0_F9E35F0F7118.url = media/video_A6532654_BD25_D215_41D8_0BFAA878C1E1_en.mp4
-videolevel_AEE47CAA_BE7A_4DFE_41D0_F9E35F0F7118.posterURL = media/video_A6532654_BD25_D215_41D8_0BFAA878C1E1_poster_en.jpg
-videolevel_AEE55CD1_BE7A_4DAA_41D1_D4E0FA6E0E34.url = media/video_B050004B_BE19_D4BE_41E3_2EDD9BF05FAE_en.mp4
-videolevel_AEE55CD1_BE7A_4DAA_41D1_D4E0FA6E0E34.posterURL = media/video_B050004B_BE19_D4BE_41E3_2EDD9BF05FAE_poster_en.jpg
-videolevel_AEFEDDC4_BE7A_4FAA_41BA_889E07325B60.url = media/video_B1227296_BE1A_D5D6_4191_D4B8B10207F6_en.mp4
-videolevel_AEFEDDC4_BE7A_4FAA_41BA_889E07325B60.posterURL = media/video_B1227296_BE1A_D5D6_4191_D4B8B10207F6_poster_en.jpg
-
-### Video Subtitles
+panorama_2A97550D_203A_50F0_41B1_9C33C415A615.label = Cam 01
+panorama_2A932B5D_203A_5710_41B7_E733B996D24D.label = Cam 02
+panorama_2C2D0DFA_203A_7311_4170_765A54C00B11.label = Cam 03
+panorama_2A93713A_203A_B310_41BB_8DF2CC6D5C68.label = Cam 04
+panorama_2A92A78A_203A_BFF0_4186_A387FC9B1F90.label = Cam 05
+panorama_2A92BDBC_203A_B311_41BD_BAE247FBB7C4.label = Cam 06
+panorama_2A92F395_203A_D713_41B6_8DD74C1DF97B.label = Cam 07
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Soundwave
+tour.name = Untitled 8
